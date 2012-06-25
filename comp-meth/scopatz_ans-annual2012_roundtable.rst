@@ -254,31 +254,186 @@ In other software based fields, free but not open is the common alternative
 to FOSS or proprietary options.  
 
 
-Jurisprudnce
+
+
+Jurisprudence
+==============================
+* Data is not copywritable [Feist v. Rural] 
+
+.. math:: \pi = 3.14159\ldots
+
+Jurisprudence
+==============================
+* Data is not copywritable [Feist v. Rural] 
+
+.. math:: \pi = 3.14159\ldots
+
+- Creative expressions of data, however, are.
+
+.. image:: pialamode.jpg
+    :scale: 75%
 
 
 
-MCNP?
+
+
+
+Jurisprudence
+==============================
+* Data bundled with export controlled software is effectively also 
+  export controlled.
+
+.. image:: NoPiForYou.jpg
+    :scale: 200%
+
+Jurisprudence
+==============================
+* Data bundled with export controlled software is effectively also 
+  export controlled.
+
+.. image:: NoPiForYou.jpg
+    :scale: 200%
+
+- Licenses are only valuable once their legality has been tested in 
+  court.
+
+
+
+
+
+
+MCNP
 ===============================
-* Since source code modifications were needed, Serpent was the easier choice as
-  homogenized material scattering kernel were already tallied. 
+.. image:: orangeMCNP.jpg
 
-- In specific, Serpent returns the group transfer probabilities P [unitless]:
+By analogy, MCNP is another code which is open but not free.  
 
-.. math:: \sum_h^G P_{g\to h} = \mathbf{\vec{1}}
-
-.. math:: P_{g\to h} = \frac{\sigma_{s,g\to h}}{\sigma_{s,g}}
-
-
-
-
-
-Anything
+MCNP
 ===============================
-The scattering cross section of a material is the weighted sum of the cross sections
-of its constituent species,
+.. image:: orangeMCNP.jpg
 
-.. math:: \sigma_{s,g\to h} = \sum_i^I \frac{N_i}{N} \cdot \sigma_{s,g\to h,i}
+By analogy, MCNP is another code which is open but not free.  
+
+MCNP is neither free as in beer nor as in speech (costs $$$, is 
+export controlled).
+
+MCNP
+===============================
+.. image:: orangeMCNP.jpg
+
+By analogy, MCNP is another code which is open but not free.  
+
+MCNP is neither free as in beer nor as in speech (costs $$$, is 
+export controlled).
+
+Source code is distributed has 
+huge market penetration, it is *effectively open source*
+in the nuclear community.
+
+
+
+
+Problems with Open But Not Free
+==============================================
+Formal stratification between users and developers.
+
+.. image:: meritocracy.jpg
+    :scale: 300%
+
+Problems with Open But Not Free
+==============================================
+Formal stratification between users and developers.
+
+.. image:: meritocracy.jpg
+    :scale: 300%
+
+New features are added by developers and approved collaborators 
+rather than by pull request.  This adds (justifiable) overhead.
+
+
+
+
+
+Problems with Open But Not Free
+==============================================
+People break the license.  Methods of recourse vary.
+
+Problems with Open But Not Free
+==============================================
+People break the license.  Methods of recourse vary.
+
+.. container:: warning
+
+    DO NOT EVEN THINK ABOUT DOING THIS!
+
+    .. image:: monopoly-go-to-jail-card.jpg
+        :scale: 200%
+
+Problems with Open But Not Free
+==============================================
+People break the license.  Methods of recourse vary.
+
+.. container:: warning
+
+    DO NOT EVEN THINK ABOUT DOING THIS!
+
+    .. image:: monopoly-go-to-jail-card.jpg
+        :scale: 200%
+
+* Old versions of MCNP are torrentable, so I hear.
+
+Problems with Open But Not Free
+==============================================
+People break the license.  Methods of recourse vary.
+
+.. container:: warning
+
+    DO NOT EVEN THINK ABOUT DOING THIS!
+
+    .. image:: monopoly-go-to-jail-card.jpg
+        :scale: 200%
+
+* Old versions of MCNP are torrentable, so I hear.
+
+- Forks of FLASH exist which have full svn history on 
+  public trac pages.
+
+
+
+
+
+PyNE: Open & Free
+===============================
+.. image:: pyne_icon_big.png
+    :scale: 75%
+
+PyNE is a C++ and Python library for nuclear engineering and operates 
+under a BSD 2-clause licesnce.  
+
+PyNE: Open & Free
+===============================
+.. image:: pyne_icon_big.png
+    :scale: 75%
+
+PyNE is a C++ and Python library for nuclear engineering and operates 
+under a BSD 2-clause licesnce.  
+
+Attempts to be the SciPy for NE.
+
+PyNE: Open & Free
+===============================
+.. image:: pyne_icon_big.png
+    :scale: 75%
+
+PyNE is a C++ and Python library for nuclear engineering and operates 
+under a BSD 2-clause licesnce.  
+
+Attempts to be the SciPy for NE.
+
+We are *very* concerned about export control.  We vigilantly screen out
+code and data where there is any ambiquity.
+
+
 
 
 

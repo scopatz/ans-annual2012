@@ -37,6 +37,12 @@
                 "spaceAfter": 20,
                 "fontSize": 16
                 }],
+             ["warning", {"alignment":"center",
+                "fontName": "stdBold",
+                "textColor": "#FF0000",
+                "spaceAfter": 20,
+                "fontSize": 28
+                }],
              ["align-left", {"alignment":"left",
                 "textColor": "#77181E",
                 "spaceAfter": 20,

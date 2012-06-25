@@ -24,7 +24,7 @@ ANS Annual 2012
 What is FLASH?
 ==============================
 FLASH code is a modular, parallel multiphysics simulation code for modeling
-terrestiral and astrophysical plasmas.  Features include:
+terrestrial and astrophysical plasmas.  Features include:
 
 
     Grid: Uniform Grid, AMR
@@ -42,39 +42,28 @@ terrestiral and astrophysical plasmas.  Features include:
 Terminology
 ===============================
 Free & open source software (FOSS) is lumped into a one category and
-typically pitted against propietary code.
+typically pitted against proprietary code.
 
 Terminology
 ===============================
 Free & open source software (FOSS) is lumped into a one category and
-typically pitted against propietary code.
+typically pitted against proprietary code.
 
     Dominant paradigm of software engineers.
 
 Terminology
 ===============================
 Free & open source software (FOSS) is lumped into a one category and
-typically pitted against propietary code.
-
-    Dominant paradigm of software engineers.
-
-FOSS theology is binary (Is vs Is Not, Us vs Them).
-
-Terminology
-===============================
-Free & open source software (FOSS) is lumped into one category and
-pitted against propietary code.
+typically pitted against proprietary code.
 
     Dominant paradigm of software engineers.
 
 FOSS theology is binary (Is vs Is Not, Us vs Them).
 
-**Except!** Software development is more like an ecosystem.  
-
 Terminology
 ===============================
 Free & open source software (FOSS) is lumped into a one category and
-typically pitted against propietary code.
+typically pitted against proprietary code.
 
     Dominant paradigm of software engineers.
 
@@ -82,7 +71,18 @@ FOSS theology is binary (Is vs Is Not, Us vs Them).
 
 **Except!** Software development is more like an ecosystem.  
 
-    *Free and open are different axes, each on their own contiuum.*
+Terminology
+===============================
+Free & open source software (FOSS) is lumped into a one category and
+typically pitted against proprietary code.
+
+    Dominant paradigm of software engineers.
+
+FOSS theology is binary (Is vs Is Not, Us vs Them).
+
+**Except!** Software development is more like an ecosystem.  
+
+    *Free and open are different axes, each on their own continuum.*
 
 
 
@@ -118,7 +118,7 @@ such as the following:
 
     - "How easy is it to obtain the source code?"
 
-    * "What is the level of penetration of the source in the community of interest?"
+    * "What is the market penetration of the source in the community of interest?"
 
 
 
@@ -184,31 +184,31 @@ Open vs Free
 
 The FLASH License
 ===============================
-* Users (by neccessity) obtain source code.
+* Users (by necessity) obtain source code.
 
 The FLASH License
 ===============================
-* Users (by neccessity) obtain source code.
+* Users (by necessity) obtain source code.
 
 - Only the FLASH Center may distribute the code; users
-  must sign hardcopy License Agreement.
+  must sign hard-copy License Agreement.
 
 The FLASH License
 ===============================
-* Users (by neccessity) obtain source code.
+* Users (by necessity) obtain source code.
 
 - Only the FLASH Center may distribute the code; users
-  must sign hardcopy License Agreement.
+  must sign hard-copy License Agreement.
 
 * Modifications are allowed with attribution, provenance on diff, 
   and prior consent in the case of commercial use.
 
 The FLASH License
 ===============================
-* Users (by neccessity) obtain source code.
+* Users (by necessity) obtain source code.
 
 - Only the FLASH Center may distribute the code; users
-  must sign hardcopy License Agreement.
+  must sign hard-copy License Agreement.
 
 * Modifications are allowed with attribution, provenance on diff, 
   and prior consent in the case of commercial use.
@@ -220,21 +220,21 @@ The FLASH License
 
 The FLASH License
 ===============================
-Thus FLASH is both free as in beer and open.
+Thus FLASH is both free-as-in-beer and open.
 
 The FLASH License
 ===============================
-Thus FLASH is both free as in beer and open.
+Thus FLASH is both free-as-in-beer and open.
 
 However, it is not free as in speech.
 
 The FLASH License
 ===============================
-Thus FLASH is both free as in beer and open.
+Thus FLASH is both free-as-in-beer and open.
 
 However, it is not free as in speech.
 
-This license will persist due to the need to 
+This license agreement will persist due to the need to 
 keep the code from becoming export controlled.
 
 .. image:: stop_defacing.jpg
@@ -244,13 +244,26 @@ keep the code from becoming export controlled.
 
 Open, But Not Free
 =============================
-The open but not free situation is common to nuclear industry in a 
+The open-but-not-free situation is common to nuclear industry in a 
 unique way.  
 
-There are a great many packages on RSICC which are export contolled but provide
+Open, But Not Free
+=============================
+The open-but-not-free situation is common to nuclear industry in a 
+unique way.  
+
+There are a great many packages on RSICC which are export controlled but provide
 source code.
 
-In other software based fields, free but not open is the common alternative 
+Open, But Not Free
+=============================
+The open-but-not-free situation is common to nuclear industry in a 
+unique way.  
+
+There are a great many packages on RSICC which are export controlled but provide
+source code.
+
+In other software based fields, free-but-not-open is the common alternative 
 to FOSS or proprietary options.  
 
 
@@ -326,12 +339,18 @@ By analogy, MCNP is another code which is open but not free.
 MCNP is neither free as in beer nor as in speech (costs $$$, is 
 export controlled).
 
-Source code is distributed has 
-huge market penetration, it is *effectively open source*
+Source code is distributed with 
+huge market penetration. It is *effectively open source*
 in the nuclear community.
 
 
 
+
+
+
+Problems with Open But Not Free
+==============================================
+Formal stratification between users and developers.
 
 Problems with Open But Not Free
 ==============================================
@@ -395,8 +414,8 @@ People break the license.  Methods of recourse vary.
 
 * Old versions of MCNP are torrentable, so I hear.
 
-- Forks of FLASH exist which have full svn history on 
-  public trac pages.
+- Forks of FLASH exist which have full svn history 
+  available on public trac pages.
 
 
 
@@ -408,7 +427,7 @@ PyNE: Open & Free
     :scale: 75%
 
 PyNE is a C++ and Python library for nuclear engineering and operates 
-under a BSD 2-clause licesnce.  
+under a BSD 2-clause license.  
 
 PyNE: Open & Free
 ===============================
@@ -416,7 +435,7 @@ PyNE: Open & Free
     :scale: 75%
 
 PyNE is a C++ and Python library for nuclear engineering and operates 
-under a BSD 2-clause licesnce.  
+under a BSD 2-clause license.  
 
 Attempts to be the SciPy for NE.
 
@@ -426,22 +445,50 @@ PyNE: Open & Free
     :scale: 75%
 
 PyNE is a C++ and Python library for nuclear engineering and operates 
-under a BSD 2-clause licesnce.  
+under a BSD 2-clause license.  
 
 Attempts to be the SciPy for NE.
 
 We are *very* concerned about export control.  We vigilantly screen out
-code and data where there is any ambiquity.
+code and data where there is any ambiguity.
 
 
+
+Take Away Points
+==============================
+* Free and open are orthogonal, continuous, and individually important.
+
+Take Away Points
+==============================
+* Free and open are orthogonal, continuous, and individually important.
+
+- Both sides of nuclear operate in the unusual open-but-not-free 
+  regime for good reasons.
+
+Take Away Points
+==============================
+* Free and open are orthogonal, continuous, and individually important.
+
+- Both sides of nuclear operate in the unusual open-but-not-free 
+  regime for good reasons.
+
+* This culture permeates even the free projects in nuclear.  
+
+Take Away Points
+==============================
+* Free and open are orthogonal, continuous, and individually important.
+
+- Both sides of nuclear operate in the unusual open-but-not-free 
+  regime for good reasons.
+
+* This culture permeates even the free projects in nuclear.  
+
+- We live in an ecosystem.  Please don't adhere to Stallmanesque dogma!
+  
 
 
 
 Questions
 ===============================
-.. image:: qm.jpg
-    :scale: 50%
-
-.. container:: gray-and-small
-
-    Image source: http://www.fotopedia.com/items/flickr-2200500024
+.. image:: open_source.png
+    :scale: 300%
